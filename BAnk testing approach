@@ -1,0 +1,12 @@
+1)	Business requirement sheet should be clear and understood. Application should be designed/developed as per this sheet.
+2)	Check the look and feel of the website. It should be as per industry standards and should be user interactive. Bank home page should have clear bifurcation of different banking products.
+3)	Regression test of all the baking products, as there should not be any change in functionality.
+4)	Need to performance test of the website to check the quality of webpage using google lighthouse.
+5)	System and integration testing should be executed to check cross product functionality.
+6)	Banking applications are prone to cyber-attacks and frauds, so security testing is also very mandatory part.
+7)	Accessibility testing should be done.
+Testing KPI
+
+1)	Stress and load testing
+2)	Functionality of the banking application should not change.
+3)	Web application performance should not deteriorate.
